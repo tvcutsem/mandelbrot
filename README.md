@@ -1,4 +1,4 @@
-# mandelbrot
+# Parallel Mandelbrot fractal generation using Fork/Join
 
 Renders the famous [Mandelbrot fractal](https://en.wikipedia.org/wiki/Mandelbrot_set) in parallel using multiple CPU cores, using the `java.util.concurrent` [Fork/Join](https://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html) framework.
 
